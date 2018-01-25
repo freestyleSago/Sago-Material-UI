@@ -1,0 +1,27 @@
+{
+  "name": "sago-material-ui",
+  "version": "1.0.0",
+  "description": "Sago的Material UI库",
+  "main": "index.js",
+  "dependencies": {
+    "material-components-web": "^0.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freestyleSago/Sago-Material-UI.git"
+  },
+  "keywords": [
+    "Material",
+    "UI"
+  ],
+  "author": "Sago.Su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freestyleSago/Sago-Material-UI/issues"
+  },
+  "homepage": "https://github.com/freestyleSago/Sago-Material-UI#readme"
+}
